@@ -195,7 +195,7 @@ html {
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.904);
   color: white;
   padding: 20px;
 }
@@ -241,4 +241,13 @@ p {
 
 h4 {
   margin-top: 15px;
+}
+
+.Quick-contact {
+  margin-bottom: 20px;
+}
+
+.author-image {
+  float: left;
+  margin-bottom: 20px;
 }
